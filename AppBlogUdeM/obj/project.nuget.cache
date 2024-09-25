@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AIolQsOwsdA=",
+  "dgSpecHash": "f+DWzRM4CWc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM\\AppBlogUdeM.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM\\AppBlogUdeM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

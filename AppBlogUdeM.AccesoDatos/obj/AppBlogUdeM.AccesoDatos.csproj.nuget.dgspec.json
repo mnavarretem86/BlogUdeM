@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {}
+    "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {
+    "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
         "projectName": "AppBlogUdeM.AccesoDatos",
-        "projectPath": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj"
+              "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj"
               },
-              "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj"
+              "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj": {
+    "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj",
         "projectName": "AppBlogUdeM.Modelos",
-        "projectPath": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Modelos\\AppBlogUdeM.Modelos.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Modelos\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,14 +153,14 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
+    "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
         "projectName": "AppBlogUdeM.Utilidades",
-        "projectPath": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Downloads\\Telegram Desktop\\BlogUdeM\\BlogUdeM\\AppBlogUdeM.Utilidades\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",

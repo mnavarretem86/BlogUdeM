@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppBlogUdeM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+456181ade0a3211cfccf4ad157cb3713a71923c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppBlogUdeM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppBlogUdeM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
