@@ -9,3 +9,15 @@ C:\Users\mnavarrete\Desktop\UdeM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\A
 C:\Users\mnavarrete\Desktop\UdeM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\refint\AppBlogUdeM.Modelos.dll
 C:\Users\mnavarrete\Desktop\UdeM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\AppBlogUdeM.Modelos.pdb
 C:\Users\mnavarrete\Desktop\UdeM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\ref\AppBlogUdeM.Modelos.dll
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\bin\Debug\net8.0\AppBlogUdeM.Modelos.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\bin\Debug\net8.0\AppBlogUdeM.Modelos.dll
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\bin\Debug\net8.0\AppBlogUdeM.Modelos.pdb
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\AppBlogUdeM.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\AppBlogUdeM.Modelos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\AppBlogUdeM.Modelos.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\AppBlogUdeM.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\AppBlogUdeM.Modelos.sourcelink.json
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\AppBlogUdeM.Modelos.dll
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\refint\AppBlogUdeM.Modelos.dll
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\AppBlogUdeM.Modelos.pdb
+C:\Users\USUARIO\OneDrive\Desktop\UDEM\BlogUdeM\AppBlogUdeM.Modelos\obj\Debug\net8.0\ref\AppBlogUdeM.Modelos.dll
