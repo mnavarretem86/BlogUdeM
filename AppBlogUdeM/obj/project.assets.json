@@ -8352,19 +8352,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\mnavarrete\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM\\AppBlogUdeM.csproj",
+      "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\UdeM\\BlogUdeM\\AppBlogUdeM\\AppBlogUdeM.csproj",
       "projectName": "AppBlogUdeM",
-      "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM\\AppBlogUdeM.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM\\obj\\",
+      "projectPath": "C:\\Users\\mnavarrete\\Desktop\\UdeM\\BlogUdeM\\AppBlogUdeM\\AppBlogUdeM.csproj",
+      "packagesPath": "C:\\Users\\mnavarrete\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mnavarrete\\Desktop\\UdeM\\BlogUdeM\\AppBlogUdeM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mnavarrete\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8379,8 +8379,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {
-              "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj"
+            "C:\\Users\\mnavarrete\\Desktop\\UdeM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\mnavarrete\\Desktop\\UdeM\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj"
             }
           }
         }
