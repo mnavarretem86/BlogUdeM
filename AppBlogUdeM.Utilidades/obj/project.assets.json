@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mnavarrete\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\UdeM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
       "projectName": "AppBlogUdeM.Utilidades",
-      "projectPath": "C:\\Users\\mnavarrete\\Desktop\\UdeM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
-      "packagesPath": "C:\\Users\\mnavarrete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mnavarrete\\Desktop\\UdeM\\BlogUdeM\\AppBlogUdeM.Utilidades\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\UDEM\\BlogUdeM\\AppBlogUdeM.Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mnavarrete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
