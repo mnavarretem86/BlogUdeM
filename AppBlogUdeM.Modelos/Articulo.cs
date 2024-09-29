@@ -23,7 +23,7 @@ namespace AppBlogUdeM.Modelos
         public String Descripcion { get; set; }
 
         [Display(Name = "Fecha de creacion")]
-        public DateTime FechaCreacion { get; set; }
+        public string FechaCreacion { get; set; }
 
         [DataType(DataType.ImageUrl)]
         [Display(Name = "Imagen")]
