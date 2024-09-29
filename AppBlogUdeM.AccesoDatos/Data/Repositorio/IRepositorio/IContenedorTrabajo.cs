@@ -8,7 +8,7 @@ namespace AppBlogUdeM.AccesoDatos.Data.Repositorio.IRepositorio
 {
     // Interfaz IContenedorTrabajo que representa una unidad de trabajo para manejar múltiples repositorios.
     // Esta interfaz implementa IDisposable para liberar recursos de manera controlada.
-    internal interface IContenedorTrabajo : IDisposable
+    public interface IContenedorTrabajo : IDisposable
     {
         // Propiedad para acceder al repositorio de categorías.
         // Devuelve una instancia de ICategoriaRepositorio, permitiendo realizar operaciones sobre categorías.

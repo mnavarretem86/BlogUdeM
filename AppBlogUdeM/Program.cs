@@ -1,3 +1,5 @@
+using AppBlogUdeM.AccesoDatos.Data.Repositorio;
+using AppBlogUdeM.AccesoDatos.Data.Repositorio.IRepositorio;
 using AppBlogUdeM.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +15,12 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+
+
+//Agregar contenedor de trabajo al contenedor IOC
+
+builder.Services.AddScoped<IContenedorTrabajo, ContenedorTrabajo>();
+
 
 var app = builder.Build();
 
