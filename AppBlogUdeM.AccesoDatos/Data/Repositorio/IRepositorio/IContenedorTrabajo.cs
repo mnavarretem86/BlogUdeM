@@ -13,6 +13,7 @@ namespace AppBlogUdeM.AccesoDatos.Data.Repositorio.IRepositorio
         // Propiedad para acceder al repositorio de categorías.
         // Devuelve una instancia de ICategoriaRepositorio, permitiendo realizar operaciones sobre categorías.
         ICategoriaRepositorio Categoria { get; }
+        IArticuloRepositorio Articulo  { get; }
 
         // Método para guardar los cambios realizados en el contexto de la unidad de trabajo.
         // Este método persiste las modificaciones de todos los repositorios asociados en una única transacción.

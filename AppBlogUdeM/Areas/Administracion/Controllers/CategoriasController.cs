@@ -3,6 +3,7 @@ using AppBlogUdeM.AccesoDatos.Data.Repositorio.IRepositorio;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using AppBlogUdeM.Modelos;
+using Microsoft.DotNet.Scaffolding.Shared.Messaging;
 
 namespace AppBlogUdeM.Areas.Administracion.Controllers
 {
@@ -45,6 +46,9 @@ namespace AppBlogUdeM.Areas.Administracion.Controllers
 
 			return View();
         }
+
+
+
 
 
         [HttpPost]
@@ -126,6 +130,38 @@ namespace AppBlogUdeM.Areas.Administracion.Controllers
 
 
 
+
+
+
+        #region Metodo para borrar categoria
+
+
+
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var FromDb = _contendorTrabajo.Categoria.Get(id);
+            if (FromDb == null)
+            {
+                return Json(new { success = false, message = "Error borrando categoría" });
+            }
+
+            _contendorTrabajo.Categoria.Remove(FromDb);
+            _contendorTrabajo.Save();
+            return Json(new { success = true, message = "Categoría Borrada Correctamente" });
+        }
+
+
+
+        #endregion
+
+
+
+
+
+
+
+
         #region Llamadas a Datatable
 
 
@@ -135,21 +171,6 @@ namespace AppBlogUdeM.Areas.Administracion.Controllers
         {
 
             return Json( new {data = _contendorTrabajo.Categoria.GetAll()} );
-        }
-
-
-        [HttpDelete]
-        public IActionResult Delete(int id)
-        {
-            var objFromDb = _contendorTrabajo.Categoria.Get(id);
-            if (objFromDb == null)
-            {
-                return Json(new { success = false, message = "Error borrando categoría" });
-            }
-
-            _contendorTrabajo.Categoria.Remove(objFromDb);
-            _contendorTrabajo.Save();
-            return Json(new { success = true, message = "Categoría Borrada Correctamente" });
         }
 
 

@@ -14,6 +14,8 @@ namespace AppBlogUdeM.Data
         //DBSET DE CATEGORIAS
 
         public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Articulo> Articulo { get; set; }
+
 
 
     }

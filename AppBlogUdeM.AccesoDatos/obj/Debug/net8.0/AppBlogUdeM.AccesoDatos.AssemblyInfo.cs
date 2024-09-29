@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppBlogUdeM.AccesoDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab55c377992190efd4ae3f408a870fdf11a15231")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+863a9215af14ec54ada88eb1cf6c778448cae0ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppBlogUdeM.AccesoDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppBlogUdeM.AccesoDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -36,7 +36,7 @@ namespace AppBlogUdeM.AccesoDatos.Data.Repositorio
             objetoDb.Orden = categoria.Orden;   // Actualiza el orden de la categoría.
 
             // Guarda los cambios realizados en el contexto de la base de datos.
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
     }
 }

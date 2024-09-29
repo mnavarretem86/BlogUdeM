@@ -11,7 +11,7 @@ function cargarDatatable() {
             "datatype": "json"
         },
         "columns": [
-            { "data": "id", "width": "5%" },
+           /* { "data": "id", "width": "5%" },*/
             { "data": "nombre", "width": "40%" },
             { "data": "orden", "width": "10%" },
             {
@@ -21,9 +21,9 @@ function cargarDatatable() {
                                 <a href="/Administracion/Categorias/Edit/${data}" class="btn btn-success text-white" style="cursor:pointer; width:140px;">
                                 <i class="far fa-edit"></i> Editar
                                 </a>
-                                <!-- &nbsp;
+                                &nbsp;
                                 <a onclick=Delete("/Administracion/Categorias/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer; width:140px;">
-                                <i class="far fa-trash-alt"></i> Borrar -->
+                                <i class="far fa-trash-alt"></i> Borrar
                                 </a>
                           </div>
                          `;
@@ -53,6 +53,8 @@ function cargarDatatable() {
         "width": "100%"
     });
 }
+
+//Funcion para borrar categoria
 
 function Delete(url) {
     swal({

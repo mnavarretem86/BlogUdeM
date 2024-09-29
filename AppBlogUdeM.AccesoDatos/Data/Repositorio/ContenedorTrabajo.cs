@@ -1,5 +1,6 @@
 ﻿using AppBlogUdeM.AccesoDatos.Data.Repositorio.IRepositorio;
 using AppBlogUdeM.Data;
+using AppBlogUdeM.Modelos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,11 +24,15 @@ namespace AppBlogUdeM.AccesoDatos.Data.Repositorio
         {
             _db = db; // Asigna el contexto de la base de datos a la variable de instancia.
             Categoria = new CategoriaRepositorio(_db); // Inicializa el repositorio de categorías.
+            Articulo = new Articulopositorio(_db); // Inicializa el repositorio de Articulos.
+
+
         }
 
         // Propiedad para acceder al repositorio de categorías.
         // Se utiliza para realizar operaciones sobre categorías desde otras clases.
         public ICategoriaRepositorio Categoria { get; private set; }
+        public IArticuloRepositorio Articulo { get; private set; }
 
         // Método para liberar los recursos utilizados por el contexto de la base de datos.
         // Implementa IDisposable para garantizar la correcta liberación de recursos.
