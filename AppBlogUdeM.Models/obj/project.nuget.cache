@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VNSp8Lz+Ybg=",
+  "dgSpecHash": "aag7+pwKa6M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
+  "projectFilePath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mnavarrete\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\mnavarrete\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

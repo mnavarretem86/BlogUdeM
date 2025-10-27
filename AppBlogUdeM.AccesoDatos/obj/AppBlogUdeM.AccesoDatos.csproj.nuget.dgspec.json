@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {}
+    "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {
+    "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
         "projectName": "AppBlogUdeM.AccesoDatos",
-        "projectPath": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\mnavarrete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj": {
-                "projectPath": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj"
+              "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj": {
+                "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj"
               },
-              "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj"
+              "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj": {
+    "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
+        "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
         "projectName": "AppBlogUdeM.Models",
-        "projectPath": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
+        "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
         "packagesPath": "C:\\Users\\mnavarrete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\obj\\",
+        "outputPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,14 +175,14 @@
         }
       }
     },
-    "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
+    "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
         "projectName": "AppBlogUdeM.Utilidades",
-        "projectPath": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
+        "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
         "packagesPath": "C:\\Users\\mnavarrete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\obj\\",
+        "outputPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
