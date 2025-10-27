@@ -1,0 +1,73 @@
+﻿@model BlogCore.Models.ViewModels.ArticuloVM
+
+@{
+    ViewData["Title"] = "Editar Artículo";
+}
+
+<div class="container mt-5">
+    <h3 class="text-center">Editar Artículo</h3>
+    <form method="POST" asp-action="Edit" enctype="multipart/form-data" class="mt-4">
+
+        <!--Se envía el ID del artículo como campo oculto-->
+        <input type="hidden" asp-for="Articulo.Id" />
+
+        <div class="row gx-4 gy-3 border p-4">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <!-- Columna de formulario -->
+            <div class="col-lg-8">
+                <div class="mb-3">
+                    <label asp-for="Articulo.Nombre" class="form-label"></label>
+                    <input asp-for="Articulo.Nombre" class="form-control" placeholder="Ingresa el nombre" />
+                    <span asp-validation-for="Articulo.Nombre" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Articulo.Descripcion" class="form-label"></label>
+                    <textarea asp-for="Articulo.Descripcion" class="form-control" style="height: 300px;" placeholder="Escribe la descripción del artículo"></textarea>
+                    <span asp-validation-for="Articulo.Descripcion" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="Categoría" class="form-label">Categoría</label>
+                    @Html.DropDownListFor(m => m.Articulo.CategoriaId, Model.ListaCategorias, "-Por favor seleccione una categoría-", new { @class = "form-control" })
+                    <span asp-validation-for="Articulo.CategoriaId" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Articulo.UrlImagen" class="form-label"></label>
+                    <input type="file" name="archivos" id="subidaArchivo" class="form-control" />
+                    <span asp-validation-for="Articulo.UrlImagen" class="text-danger"></span>
+                </div>
+
+                <!-- Botones -->
+                <div class="row">
+                    <div class="col-6">
+                        <button type="submit" class="btn btn-primary w-100">Editar Artículo</button>
+                    </div>
+                    <div class="col-6">
+                        <a asp-action="Index" class="btn btn-success w-100">Volver atrás</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Columna de imagen -->
+            <div class="col-lg-4 d-flex justify-content-center align-items-start">
+                <img src="@Model.Articulo.UrlImagen" class="img-fluid rounded shadow-sm" alt="Imagen del artículo" style="max-width: 100%; border:1px solid #bbb9b9;" />
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/6.8.3/tinymce.min.js" integrity="sha512-VCEWnpOl7PIhbYMcb64pqGZYez41C2uws/M/mDdGPy+vtEJHd9BqbShE4/VNnnZdr7YCPOjd+CBmYca/7WWWCw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'lists',
+            menubar: 'file edit format',
+            toolbar: 'undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent'
+            });
+    </script>
+}

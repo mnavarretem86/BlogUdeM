@@ -1,8 +1,8 @@
-﻿using AppBlogUdeM.Modelos;
+﻿using BlogCore.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace AppBlogUdeM.Data
+namespace BlogCore.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
@@ -11,12 +11,10 @@ namespace AppBlogUdeM.Data
         {
         }
 
-        //DBSET DE CATEGORIAS
-
-        public DbSet<Categoria> Categorias { get; set; }
+        //Poner aquí todos los modelos que se vayan creando
+        public DbSet<Categoria> Categoria {  get; set; }
         public DbSet<Articulo> Articulo { get; set; }
-
-
-
+        public DbSet<Slider> Slider { get; set; }
+        public DbSet<ApplicationUser> ApplicationUser { get; set; }
     }
 }

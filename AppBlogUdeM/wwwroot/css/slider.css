@@ -1,0 +1,12 @@
+﻿/* Clase personalizada para limitar la altura de las imágenes del slider */
+.carousel-item img {
+    max-height: 420px; /* Ajusta esta altura según tus necesidades */
+    object-fit: cover; /* Cubre el contenedor sin distorsionar la imagen */
+}
+
+/* Ajuste para pantallas más pequeñas */
+@media (max-width: 576px) {
+    .carousel-item img {
+        max-height: 250px; /* Ajuste de altura para dispositivos móviles */
+    }
+}

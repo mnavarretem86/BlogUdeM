@@ -1,0 +1,30 @@
+﻿<link rel="stylesheet" href="~/css/slider.css" asp-append-version="true" />
+
+<div id="sliderImagenes" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+    <div class="carousel-inner">
+        @{
+            int cont = 0;
+        }
+
+        @foreach (var slider in Model.Sliders)
+        {
+            var itemDinamico = cont++ == 0 ? "active" : "";
+
+            @if (slider.Estado == true)
+            {
+                <div class="carousel-item @itemDinamico">
+                    <img src="@Url.Content(slider.UrlImagen)" class="d-block w-100 img-fluid">
+                    <h1 class="text-white text-center bg-dark py-1">@Html.Raw(slider.Nombre)</h1>
+                </div>
+            }
+        }
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#sliderImagenes" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#sliderImagenes" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>

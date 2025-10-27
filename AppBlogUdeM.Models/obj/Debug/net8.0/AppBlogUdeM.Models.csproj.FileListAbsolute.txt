@@ -1,0 +1,12 @@
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\bin\Debug\net8.0\AppBlogUdeM.Models.deps.json
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\bin\Debug\net8.0\AppBlogUdeM.Models.dll
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\bin\Debug\net8.0\AppBlogUdeM.Models.pdb
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\obj\Debug\net8.0\AppBlogUdeM.Models.csproj.AssemblyReference.cache
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\obj\Debug\net8.0\AppBlogUdeM.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\obj\Debug\net8.0\AppBlogUdeM.Models.AssemblyInfoInputs.cache
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\obj\Debug\net8.0\AppBlogUdeM.Models.AssemblyInfo.cs
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\obj\Debug\net8.0\AppBlogUdeM.Models.csproj.CoreCompileInputs.cache
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\obj\Debug\net8.0\AppBlogUdeM.Models.dll
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\obj\Debug\net8.0\refint\AppBlogUdeM.Models.dll
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\obj\Debug\net8.0\AppBlogUdeM.Models.pdb
+C:\Users\mnavarrete\Desktop\BlogUdeM\AppBlogUdeM.Models\obj\Debug\net8.0\ref\AppBlogUdeM.Models.dll

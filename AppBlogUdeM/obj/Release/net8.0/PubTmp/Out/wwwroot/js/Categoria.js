@@ -3,10 +3,11 @@
 $(document).ready(function () {
     cargarDatatable();
 });
+
 function cargarDatatable() {
     dataTable = $("#tblCategorias").DataTable({
         "ajax": {
-            "url": "/Administracion/categorias/GetAll",
+            "url": "/admin/categorias/GetAll",
             "type": "GET",
             "datatype": "json"
         },
@@ -17,17 +18,16 @@ function cargarDatatable() {
             {
                 "data": "id",
                 "render": function (data) {
-                    return `<div class="text-center">
-                                <a href="/Administracion/Categorias/Edit/${data}" class="btn btn-success text-white" style="cursor:pointer; width:140px;">
+                    let editButton = `<a href="/Admin/Categorias/Edit/${data}" class="btn btn-success text-white" style="cursor:pointer; width:140px;">
                                 <i class="far fa-edit"></i> Editar
-                                </a>
-                                <!-- &nbsp;
-                                <a onclick=Delete("/Administracion/Categorias/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer; width:140px;">
-                                <i class="far fa-trash-alt"></i> Borrar -->
-                                </a>
-                          </div>
-                         `;
-                }, "width": "40%"
+                                </a>`;
+                    let deleteButton = isAdmin === "true" ? `<a onclick=Delete("/Admin/Categorias/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer; width:140px;">
+                                <i class="far fa-trash-alt"></i> Borrar
+                                </a>` : '';
+
+                    return `<div class="text-center">${editButton} &nbsp; ${deleteButton}</div>`;
+                },
+                "width": "40%"
             }
         ],
         "language": {
@@ -56,13 +56,13 @@ function cargarDatatable() {
 
 function Delete(url) {
     swal({
-        title: "Esta seguro de borrar?",
+        title: "¿Está seguro de borrar?",
         text: "Este contenido no se puede recuperar!",
         type: "warning",
         showCancelButton: true,
         confirmButtonColor: "#DD6B55",
-        confirmButtonText: "Si, borrar!",
-        closeOnconfirm: true
+        confirmButtonText: "Sí, borrar!",
+        closeOnConfirm: true
     }, function () {
         $.ajax({
             type: 'DELETE',

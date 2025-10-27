@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppBlogUdeM.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AppBlogUdeM.wds46e0sjj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\css\\articulo.css",
+      "PackagePath": "staticwebassets\\css\\articulo.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\css\\slider.css",
+      "PackagePath": "staticwebassets\\css\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\LogoUdeM.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\LogoUdeM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\LogoUdeM.png",
+      "PackagePath": "staticwebassets\\imagenes\\LogoUdeM.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\UdeM.png",
+      "PackagePath": "staticwebassets\\imagenes\\UdeM.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\1b6e77fa-9c40-429b-8fd6-c8852ed0cb39.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\1b6e77fa-9c40-429b-8fd6-c8852ed0cb39.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\2ed5c38c-9f78-4ccb-9d3d-cdb01f06cb15.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\2ed5c38c-9f78-4ccb-9d3d-cdb01f06cb15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\3a35959f-ff8c-4b7e-bf6d-644913d107f1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\3a35959f-ff8c-4b7e-bf6d-644913d107f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\58ba558f-1e3f-4944-b285-5cb31516491b.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\58ba558f-1e3f-4944-b285-5cb31516491b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\65a26317-5386-42e2-86c4-c3007b1cbd72.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\65a26317-5386-42e2-86c4-c3007b1cbd72.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\7a5be63a-a181-4e29-b818-8acd52f7639d.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\7a5be63a-a181-4e29-b818-8acd52f7639d.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\807e5a40-299f-46ac-9fee-32e6ac15b480.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\807e5a40-299f-46ac-9fee-32e6ac15b480.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\8d845c7d-7918-4bb4-972d-e9807360285b.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\8d845c7d-7918-4bb4-972d-e9807360285b.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\8ed9c74b-0690-4775-8d5a-cf27a628740a.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\8ed9c74b-0690-4775-8d5a-cf27a628740a.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\d2485b26-09fb-4fc6-9298-69e2597ce137.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\d2485b26-09fb-4fc6-9298-69e2597ce137.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\articulos\\d3874cb7-9128-42ad-8a37-5fcf9ee08e3a.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\d3874cb7-9128-42ad-8a37-5fcf9ee08e3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\bloquear.png",
+      "PackagePath": "staticwebassets\\imagenes\\bloquear.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\fondo-banner.png",
+      "PackagePath": "staticwebassets\\imagenes\\fondo-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\no-autorizado.png",
+      "PackagePath": "staticwebassets\\imagenes\\no-autorizado.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\sliders\\4efa842b-1519-4420-a478-2ff3b67176f0.png",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\4efa842b-1519-4420-a478-2ff3b67176f0.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\sliders\\704803a9-8af2-473d-80c8-3839557b5cd9.png",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\704803a9-8af2-473d-80c8-3839557b5cd9.png"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\sliders\\b8b3fd7e-e68e-4f4a-8247-d5ed9092f497.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\b8b3fd7e-e68e-4f4a-8247-d5ed9092f497.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\sliders\\e2176129-30e0-4bf1-badb-3bb9999ada45.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\e2176129-30e0-4bf1-badb-3bb9999ada45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\sliders\\fccf98a7-6f0d-4a89-9083-b1d7b51d52f0.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\fccf98a7-6f0d-4a89-9083-b1d7b51d52f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\imagenes\\udem.svg",
+      "PackagePath": "staticwebassets\\imagenes\\udem.svg"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\js\\articulos.js",
+      "PackagePath": "staticwebassets\\js\\articulos.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\js\\weather.js",
+      "PackagePath": "staticwebassets\\js\\weather.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootswatch.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootswatch.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mnavarrete\\Desktop\\BlogUdeM\\AppBlogUdeM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppBlogUdeM.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppBlogUdeM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AppBlogUdeM.props",
+      "PackagePath": "build\\AppBlogUdeM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AppBlogUdeM.props",
+      "PackagePath": "buildMultiTargeting\\AppBlogUdeM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AppBlogUdeM.props",
+      "PackagePath": "buildTransitive\\AppBlogUdeM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

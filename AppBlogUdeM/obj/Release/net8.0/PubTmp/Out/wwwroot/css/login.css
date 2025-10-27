@@ -1,0 +1,5 @@
+﻿/* Centrar texto y añadir espaciado entre el nombre y el rol */
+.centrado-rol {
+    text-align: right;
+    margin-top: 0px; /* Ajusta la separación entre el nombre y el rol */
+}
