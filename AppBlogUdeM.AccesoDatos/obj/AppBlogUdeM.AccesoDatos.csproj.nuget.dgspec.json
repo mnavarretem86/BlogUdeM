@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {}
+    "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {
+    "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
         "projectName": "AppBlogUdeM.AccesoDatos",
-        "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\mnavarrete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\obj\\",
+        "projectPath": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\AppBlogUdeM.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\sidne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mnavarrete\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sidne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj": {
-                "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj"
+              "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj": {
+                "projectPath": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj"
               },
-              "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj"
+              "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj"
               }
             }
           }
@@ -45,41 +41,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.1, )"
-            },
-            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -91,30 +57,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj": {
+    "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
+        "projectUniqueName": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
         "projectName": "AppBlogUdeM.Models",
-        "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
-        "packagesPath": "C:\\Users\\mnavarrete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Models\\obj\\",
+        "projectPath": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\AppBlogUdeM.Models.csproj",
+        "packagesPath": "C:\\Users\\sidne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mnavarrete\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sidne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,27 +91,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.Extensions.Identity.Stores": {
-              "target": "Package",
-              "version": "[8.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -166,30 +107,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
+    "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
         "projectName": "AppBlogUdeM.Utilidades",
-        "projectPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\mnavarrete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnavarrete\\Desktop\\Nueva carpeta\\BlogUdeM\\AppBlogUdeM.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\AppBlogUdeM.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\sidne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sidne\\OneDrive\\Desktop\\BlogUdeM\\AppBlogUdeM.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mnavarrete\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sidne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -209,13 +141,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -231,12 +157,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
