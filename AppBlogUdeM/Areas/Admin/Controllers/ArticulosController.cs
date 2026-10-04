@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.IO;
 using System.Threading.Tasks;
 using BlogCore.Models;
-
+//hOLA
 namespace BlogCore.Areas.Admin.Controllers
 {
     [Authorize(Roles = "Administrador,Moderador")]
